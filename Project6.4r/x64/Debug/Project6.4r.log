@@ -1,0 +1,5 @@
+﻿  FileName.cpp
+C:\Users\MAXIMUS\source\repos\Project6.4r\Project6.4r\FileName.cpp(80,98): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\MAXIMUS\source\repos\Project6.4r\Project6.4r\FileName.cpp(84,102): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\MAXIMUS\source\repos\Project6.4r\Project6.4r\FileName.cpp(88,78): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Project6.4r.vcxproj -> C:\Users\MAXIMUS\source\repos\Project6.4r\x64\Debug\Project6.4r.exe
